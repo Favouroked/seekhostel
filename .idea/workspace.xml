@@ -2,458 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="833a2d78-9ef9-4b08-85a4-bc2578b517d2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2011/10/screen-01-hall-01@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2011/10/screen-01-hall-02@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2011/10/screen-01-hall-03@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2011/10/screen-01-hall-04@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2011/10/screen-01-hall-05@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2011/10/screen-01-hall-06@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2011/10/screen-01-top@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2011/10/screen-02-hall-01@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2011/10/screen-02-hall-02@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2011/10/screen-02-hall-03@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2011/10/screen-02-hall-04@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2011/10/screen-02-top@2x-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2011/10/screen-03@2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/01/0164-webster-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/01/5581-webster-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/01/Arial-view12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/01/Collegelands-Social-Space-3-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/01/Dashwood_Deluxe-9435-reszie-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/01/FSL-Liverpool13747-Low-Res-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/01/Hoxton-Sunset3-695x436.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/01/John-Lester-Kitchen-1066-Edit-resize-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/01/Kingston-Superior1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/01/Loughborough-491-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/01/Phase-2-external-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/01/simax_150421_9005-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/01/victoria-hall-student-accommodation-in-london-outside-0122-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/01/victoria-hall-student-accommodation-newcastle-outside-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/02/52-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/02/Emma-Caldwell-Tom-Milnes-Jack-Prince1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/02/Ipswich-194-Web-Size13-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/02/Main-Entrance11-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/02/fresh-student-living-chester-abbeygate-05-bronze-studio-photo-05-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/02/sh1695-0581-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/03/Bronze-3-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/03/Carnegie-Village-Ext1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/03/Curve-London7276-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/03/DSC_01141-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/03/DSC_0152alt1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/03/Kirkstall-Brewery-1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/03/ropmaker_w_012-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/03/shoreditch_1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/05/lphs_326_additional23032015125329-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/06/1fb33e94c71.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/06/8191310-interior37-800-web-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/06/cube_w_023-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/06/durham_stmarg__w_451-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/06/gallery_web_351-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/06/kss_201-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/06/lhall_012-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/06/thehub_web_112-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/09/MessyStudentroom.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/09/PoshStudent.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/09/Student-5-things-about-halls-banner-695x264.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/09/Student-5-things-about-halls-banner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/09/Student-Roommates-695x264.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/09/Student-Roommates.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/09/Studentpirate.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/09/Superior-Double-Students-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/09/Superior-Double.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/09/ear-plugs1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/09/fridgenotes8-s500x375-148946.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/09/sleepy-student.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/09/tomlin_blue_tit_450x338.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/11/Central-Village-outside2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/11/Charles-Morris-Hall-ext2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/11/Devonshire-hall-ext22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/11/Double-Bed-Room2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/11/Entrance-Sign2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/11/Leodis-Facade2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/11/Liberty-Dock-and-River-Aire2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/11/Outside-James-Baillie12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/12/52-Clarendon2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/12/Exterior2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/12/Lupton-Site-Office2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/12/Montague-Burton-Facade1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/12/North-Hill-Main-Entrance1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/12/Oxley-Grounds1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/12/Sentinel-Tower-Sign1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2012/12/The-Tannery2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/01/Bronze-Studio-13-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/01/Derby-Living-area1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/01/Neuadd-Penrhyn-Shared-Kitchen1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/02/Davies-Front-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/02/MSV-South-Building-31-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/02/MSV13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/02/unspecified-1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/03/04-large2-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/03/50note.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/03/5thingsyoushouldneversaytoyourflatmates-695x264.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/03/5thingsyoushouldneversaytoyourflatmates.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/03/TG132.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/03/burger.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/03/washinguo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/04/Courtyard-by-Night1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/04/Platinum-FINAL3-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/04/mill11-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/06/11-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/06/1Grenville-Street-Liverpool-Student-Accommodation1-640x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/06/Nottingham-2-Courtyard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/06/Sheffield-3-Exterior-800x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/06/rsz_31simax_170301_3969-2-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/07/20150128_PRODIGY_LFD__00309-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/07/Decorate-your-student-room-695x264.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/07/Decorate-your-student-room.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/07/GNH_GOLD-ENSUITE_RTC-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/07/Quirkystudentlampshade.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/07/Standard-Studios-622x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/07/Student-posters.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/07/Studentsleeping.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/07/TH_GOLD-PLUS_RTC-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/07/fairy-lights.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/07/friedeggrug.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/07/greenwich-atria-study-space-small1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/07/studentplants.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/08/Bristol-Street-Apt-Ensuite2-06.07-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/08/ParkHse2-003-1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/08/VH-Goldsmiths-Hs-059-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/09/Helen-Graham-Hse-003.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/09/Wood-Green-2016-054-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/10/EPC-Certificate-Chapel-Street1.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2013/10/chapel-st-small-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/01/Spring-Mews-Studio-112-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/01/fresh-student-living-london-central-studios-ealing-03-studio-950-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/5c.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/Bellegrave_View_Bronze-6719-Edit-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/HelloGirls2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/Newport_Platinum-8438-Edit-reszie-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/Nottingham-Trinity-Square-Exterior.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/PAJ_0287-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/Top-10-Ways-To-Ruin-Your-Valentines-Day-695x264.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/Top-10-Ways-To-Ruin-Your-Valentines-Day.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/Top10letdownsof2013-695x264.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/Top10letdownsof2013.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/Xfactor435261.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/anchorman2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/ashes3212.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/beyontwitter1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/blurredlines231.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/burntfood7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/curvedtv.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/date4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/flowers10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/forget-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/gift8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/gp.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/manofs.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/netflixad.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/novelty9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/single6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/text3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/02/tinder1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/03/Swansea-St-Davids-External-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/04/10-ways-to-spend-your-student-summer-695x264.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/04/10-ways-to-spend-your-student-summer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/04/Festival.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/04/Studio_1-23-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/04/Study-Abroad.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/04/campleader.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/04/common-area-two-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/04/holidayreps1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/04/interns.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/04/pileofbooks.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/04/skills.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/04/stuck-in-a-house.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/04/summerjobs.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/04/volunteerabroad.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/05/Snowdon-HallExternal1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/06/Bonnington_Standard_Plus-6502-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/06/Cambridgeuniversity.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/06/External-RP-smaller-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/06/Ucas-Deadline1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/06/Ucashelpline.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/06/brookside-kitchen-three.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/06/keep-calm-and-bounce-back.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/07/20-fresh-student-living-reading-central-studios-reading-04-studio-platinum-plus-photo-03-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/07/Topbanner17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/07/ffff.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/08/Claredale-House-0741-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/08/G55CA1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/10/All-night.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/10/CheerLeaders.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/10/Classic-Ensuite-Compressed.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/10/Fancydress.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/10/RoomPrank.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/10/Rowing-Club.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/10/Shopping.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/10/Studentnight.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/10/Trashtv.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/10/Travel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/10/saving.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/11/2267_0017-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/11/St_Albert_Bronze-0399-Edit-resize-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/12/Lucas-Studios-Corportation-Street-CGIS-4-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/12/Newcastle-1-Exterior-800x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/12/RAF_BRONZE-STUDIO-946_ALT_RTC-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/12/The-Lyra-en-suite-Platinum-studio-4270-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2014/12/bathroom-3-potterow-web-950-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/13-fresh-student-living-kingston-davidson-house-03-shared-flat-living-area-photo-05-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/13-fresh-student-living-sheffield-cornerhouse-03-shared-flat-living-area-photo-04-web-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/Conversation.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/DSC095181-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/FSL-Bangor-Llys-Y-Deon-courtyard-photo-01-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/FSL-Glasgow-Merchant-Studios-Gold-Studio-2-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/ImageCreditAlagraham.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/ImageCreditUbelong.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/Imagecredit2septtembrie.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/ImagecreditDiply.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/ImagecreditIheartorganizing.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/ImagecredtiHummingbirdcottage.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/Incase.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/Mercury-House-Low-Res-4-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/Shape.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/Sheffield-2-Reception-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/Volunteer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/fresh-student-living-birmingham-the-old-fire-station-10-studio-photo-05-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/01/lowres102-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/02/Bedroom-2-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/02/Kensington-House-Student-Accommodation-Birmingham-2-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/02/Scape-Shoreditch-building-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/02/birmingham_student_rooms_large_beds.crop_-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/02/hub-external-1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/02/unspecified-1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/03/20170223_150841-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/03/Cathedral-Campuse-2010-046-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/03/Kingston-Plaza-Student-Accommodation-in-Kingston-9-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/03/hive-classic-1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/03/outside-building-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/04/Halsmere-Studios-2--695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/04/southampton_student_studios_study_storage.crop_-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/05/BUIC-CGI-Images-11-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/05/mypad-paisley4-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Aberystwyth1Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Bangor-1Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Birmingham2crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Bradford1crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Bristol4Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Cambridge3crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Canterbury1Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Cardiff3Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Chester1Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Coventry1Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Derby1Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Dundee1Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Durham1Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/ESSA-0815-07380-612x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Edinburgh5Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Exeter2Crop1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Glasgow1Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Huddersfield1Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Ipswich3Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Leeds6Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Leicester1Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Lincoln1Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Liverpool2Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/London5crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Manchester3Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Newcastle5Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Newport1Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Nottingham4Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Oxford4Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Paisley1Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Plymouth2Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Preston2Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Reading1Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Salford1Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Selly-Oak-Student-Quarter-Student-Accommodation-Birmingham-8-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Sheffield1Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Southampton2Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Swansea3Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/Wolverhampton1Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/York4Crop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/06/clouds.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/07/BagotSt_Platinum-6668-Edit-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/07/Canto_Court_10-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/08/IMG_0177-1000x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/08/Luton_fitzroy_deluxe_ensuite_-0836-resize-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/08/Outside-1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/08/building-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/08/edge.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/08/student_room_glasgow_accommodation.crop_-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/09/Cluster-Kitchen-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/10/FSL-Leicester-5-5-1614032-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/10/IMG_0094-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/10/Kingfisher-External-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/10/Q3001-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/10/Verde-External-Low-Res-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/10/fresh-student-living-exeter-cricat-living-area-photo-04-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/10/fresh-student-living-glasgow-bridge-house-06-shared-flat-bedroom-photo-04-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/10/fresh-student-living-leeds-briggs-house-06-shared-flat-bedroom-photo-04-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/10/fresh-student-living-liverpool-byrom-point-07-shared-flat-bedroom-photo-04-Low-Res-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/10/q3.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/11/0St-Marys-House-Copy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/11/143453_londonct2_IMG_01_0000_max_620x414.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/11/143459_hub1_IMG_00_0000_max_620x414.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/11/D3C_6825-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/11/FSL-78-Web-Size-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/11/FSL_DunaskinMill_900x411px_5-695x411.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/11/IMG_10651-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/11/courtyard-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/11/fresh-student-living-bristol-new-bridewell-07-studio-photo-019websize-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/11/fresh-student-living-sheffield-sharman-court-03-social-space-photo-01-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/11/warehouse.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/12/02-Newcastle-Social-space-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/12/1.-LSB_3731--695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/12/New-Talbot-Studios-Gallery-03-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/12/Outside-aspect-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/12/TSHC-0137--695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/12/TSHC-CrescentPlace-Southampton-ClusterRoom-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2015/12/liverpool_student_accommodation_storage_crop-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/01/GarthHeads15_0015-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/01/Gold-1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/01/Ravenscourt-Classic-Studio-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/01/St-Giles-common-room-16.09-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/01/Storthes-1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/01/agnes-jones-house-common-room-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/01/powis-place-studio-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/02/Capture-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/02/Haddignton-place-outside-07.10-8-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/02/IMG_0098-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/02/Penrhyn-Road-8-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/02/fresh-student-living-bath-the-depot-05-studio-photo-05-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/05.09.16-Willowbank-5-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/05_09_16_Ballet_School__2_-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/13.10.16-Metrovick-House-Studio-Claire-Williams-Photography-12-of-96-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/95-Talbot-Street-Gallery-05-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/Ben.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/Claire-Williams-Photography-2-of-35-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/Curzon-Point-Gallery-01-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/Daisy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/Deluxe-Studio-12-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/Executive-Plus-Studio-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/External-shot-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/Glass.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/Host_Leicester5265-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/PortchesterHouse__8_-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/Portobello-House-Studio-Three-Web-Res-Oct-2016-1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/St-Peters-Gallery-201607__9_-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/alexandra-hall-premium-double-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/bowman-house-classic-studio1-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/firhill-court-classic-ensuite-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/hawley-crescent-camden-studio-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/janet-poole-house-premium-studio4-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/nottingham-square-classic-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/rockingham-house-deluxe-5-bed-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/03/st-andrews-gardens-classic-double-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/005_gallery_image_cmc_cac_nb_250516.crop_-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/11-695x400.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/150506_MarketgaitApartmentsluxurystudentaccommodationDundeestudenthallspremierstudioplusrooms_IMG_03_0000_max_620x414.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/Bronze-Studio-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/Claire-Williams-Photography-2-of-79-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/Claire-Williams-Photography-6-of-103-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/IMG_0009-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/IMG_2177-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/Nido-Union-Square2974-3-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/RDS8872-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/Studio-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/Studio-common-lounge-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/TheStudios0104-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/bedroom_001_img_sma_cac_nb_130516__1_.crop_-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/chester.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/glasgow_student_living_woodside_house_dinner_party_room.crop_-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/mezzanine_premium_student_accommodation_newcastle.crop_-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/unspecified-1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/04/wilmslow-park_silver-ensuite_c1d_alt_rtc-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/05/Bedroom5-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/05/Exterior-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/05/St-Pancras-external-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/05/Twodio-bedroom-171017-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/05/academic_house__12_-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/06/99-deposit-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/06/Earlsdon-Silver-305-1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/06/Lace-Market-Studios-1-695x436.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/06/PH-Gold-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/06/UNILIFE-EDIT-1-of-3-2-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/06/unilife-edits-240615-18-of-118-SJ-3-Gold-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/07/AytonHouse-7-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/07/Deluxe-Studio-Full-Image-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/07/Rathmell-Hall-24-resized-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/08/Herbal-Hill-Studios-Web-Quality-21-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/08/©Rob-Watkins-2219-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/09/Student_Accommodation_London_Therese_House_1-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/09/Therese-House-1.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/10/1-The-Shield-Social-Space-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/10/BH1-695x338.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/10/Exterior-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/10/FSL-Queen-Street-Studios-Exeter-5-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/10/FSL-Sheffield-Laycock-Edited-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/10/FSL-Southampton2325-Gallery-size-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/10/FSL-The-Towpath-Chester-Marketing-Suite-Lo-Res-6-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/10/Fresh-Student-Mannequin-House-London-Accommodation-8-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/10/MG_3593-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/10/MG_3858-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/10/The-Mill-House-reception-3-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/10/WC-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/10/lphs_373_additional19052015162831-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/11/88-bromsgrove-house-studio-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/11/Austin_0013-1200x750-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/11/Maxwell-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/11/fresh-student-living-chester-tramways-04-bronze-en-suite-photo_LoRes-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/11/p000445_0003-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/12/0415_Knightsbridge_Cam_06_Plymouth_WestD-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/12/Bed-Area1-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/12/Newcastle-SJH-Exterior.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/12/Newcastle-SJP-Exterior-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/12/fraser-studios-header-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2016/12/v2-PCV_Studio-0929-Edit-695x436.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/0070-webster-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/0572-webster-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/167-AWW_EastStreetStudentResi_04-TownhouseBedroom_R02-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/8458-webster-copy-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/Aberdeen-Exterior.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/Birmingham-Exterior-2-800x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/DRB_4790-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/DSC1157-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/EPC-Certificate_PGSV_BrysonCourt.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/Edinburgh-Lady-Nicholson-Exterior--800x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/Edinburgh-Panmure-Exterior-2-800x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/Edinburgh-Porsburgh-Exterior-1-800x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/FrontofBuilding-Small-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/GSD-RR-Living-Room.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/Glasgow-Buchanan-Exterior.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/Glasgow-Gibson-St-Exterior-800x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/Icon3-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/Liverpool-Apollo-Bedroom-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/Liverpool-Capital-Gate-Exterior.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/Liverpool-Myrtle-Bedroom-2-Studio-1-.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/Liverpool-Railyard-Bedroom-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/MI1830_ArcV_PAG_Ventures_Formroom_Architects_Trafford_St_Chester_View_04_FINAL_Reduced-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/R3_1319-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/RC_IconInc-Common-Final-17Social-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/SOM-Roost-Belfast-Gt-Patrick-St31619.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/SOM-Roost-Belfast-Queen-St31661.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/SRT-Aberdeen-Pittodrie0008.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/STU-Roost-St-Mungos0841.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/Studio2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/X1-The-Campus-5-467x642.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/York-Exterior-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/bedford-street-south-classic-two-bed2-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/crossgate-court-common-room-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/foundry.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/h-the-cube-ealing-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/havannah-house-city-800x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/landale-house-ensuite-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/parkside-mezzanine-600pw.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/props-7408-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/rise-nottingham-common-room-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/the-maltings-1024x320.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/01/trinity-student-village-room-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/02/Large-Ensuite-2-LR-1024x642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/wp-content/uploads/2018/02/hALPIN-PICTURE-1024x642.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.ejs" afterPath="$PROJECT_DIR$/views/index.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/hostel_description.ejs" afterPath="$PROJECT_DIR$/views/hostel_description.ejs" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -470,7 +20,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
@@ -526,13 +76,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hostel_description.ejs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="hostel_description.ejs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/hostel_description.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2256">
-              <caret line="304" column="0" lean-forward="false" selection-start-line="304" selection-start-column="0" selection-end-line="304" selection-end-column="0" />
+            <state relative-caret-position="192">
+              <caret line="377" column="20" lean-forward="false" selection-start-line="377" selection-start-column="20" selection-end-line="377" selection-end-column="20" />
               <folding>
-                <marker date="1522108897502" expanded="true" signature="10177:10611" ph="..." />
+                <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1522264524916" expanded="true" signature="10177:10611" ph="..." />
               </folding>
             </state>
           </provider>
@@ -632,7 +183,6 @@
         <option value="$PROJECT_DIR$/views/school_description.ejs" />
         <option value="$PROJECT_DIR$/public/student-accommodation/loughborough/index.html" />
         <option value="$PROJECT_DIR$/views/agent_uploads.ejs" />
-        <option value="$PROJECT_DIR$/views/hostel_description.ejs" />
         <option value="$PROJECT_DIR$/views/admin_home.ejs" />
         <option value="$PROJECT_DIR$/views/search_result.ejs" />
         <option value="$PROJECT_DIR$/models/hostel.js" />
@@ -649,6 +199,7 @@
         <option value="$PROJECT_DIR$/public/about/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/views/index.ejs" />
+        <option value="$PROJECT_DIR$/views/hostel_description.ejs" />
       </list>
     </option>
   </component>
@@ -773,25 +324,24 @@
       <workItem from="1522105940963" duration="4584000" />
       <workItem from="1522153650566" duration="834000" />
       <workItem from="1522216041797" duration="3519000" />
-      <workItem from="1522262308199" duration="1915000" />
+      <workItem from="1522262308199" duration="2286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48128000" />
+    <option name="totallyTimeSpent" value="48499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24944155" sideWeight="0.49164677" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24944155" sideWeight="0.49164677" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32744783" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24944155" sideWeight="0.50835323" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1213,16 +763,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/hostel_description.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2256">
-          <caret line="304" column="0" lean-forward="false" selection-start-line="304" selection-start-column="0" selection-end-line="304" selection-end-column="0" />
-          <folding>
-            <marker date="1522108897502" expanded="true" signature="10177:10611" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
@@ -1245,6 +785,17 @@
             <element signature="n#style#0;n#div#6;n#div#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#7;n#div#0;n#section#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1522264195585" expanded="true" signature="10437:10871" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/hostel_description.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="377" column="20" lean-forward="false" selection-start-line="377" selection-start-column="20" selection-end-line="377" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1522264524916" expanded="true" signature="10177:10611" ph="..." />
           </folding>
         </state>
       </provider>
