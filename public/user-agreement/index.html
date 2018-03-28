@@ -1,0 +1,502 @@
+
+<!DOCTYPE html>
+<html>
+
+<head itemscope itemtype="http://schema.org/WebSite">
+    <script type="text/javascript">
+        document.documentElement.className = 'js';
+    </script>
+    <script>
+        var env;
+		        env = 'production';
+		    </script>
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+
+    <meta property="og:title" content="User Agreement Student Accommodation UK. seekhostel.com " />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.seekhostel.com/user-agreement" />
+        <meta property="og:image" content="https://www.seekhostel.com/wp-content/uploads/2017/06/seekhostel.com_.png" />
+
+    <script type="application/ld+json">
+            {
+              "@context": "http://schema.org",
+              "@type": "Website",
+              "name": "seekhostel.com",
+              "url": "https://www.seekhostel.com",
+              "image": "https://www.seekhostel.com/wp-content/uploads/2017/06/seekhostel.com_.png",
+              "sameAs": [
+                "https://www.facebook.com/seekhostel",
+                "https://twitter.com/seekhostel"
+              ],
+              "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://www.seekhostel.com/?s={search_term_string}",
+                "query-input": "required name=search_term_string"
+  }
+            }
+        </script>
+
+    
+    
+
+    <!--[if lt IE 9]>
+    <script>
+        document.createElement('header');
+        document.createElement('hgroup');
+        document.createElement('nav');
+        document.createElement('section');
+        document.createElement('article');
+        document.createElement('main');
+        document.createElement('aside');
+        document.createElement('footer');
+        document.createElement('figure');
+        document.createElement('figcaption');
+    </script>
+    <![endif]-->
+
+    <script>
+        window.mobilecheck = function() {
+            var check = false;
+            (function(a){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))check = true})(navigator.userAgent||navigator.vendor||window.opera);
+            return check; }
+
+        !function(a){var b=/iPhone/i,c=/iPod/i,d=/iPad/i,e=/(?=.*\bAndroid\b)(?=.*\bMobile\b)/i,f=/Android/i,g=/IEMobile/i,h=/(?=.*\bWindows\b)(?=.*\bARM\b)/i,i=/BlackBerry/i,j=/Opera Mini/i,k=/(?=.*\bFirefox\b)(?=.*\bMobile\b)/i,l=new RegExp("(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)","i"),m=function(a,b){return a.test(b)},n=function(a){var n=a||navigator.userAgent;this.apple={phone:m(b,n),ipod:m(c,n),tablet:m(d,n),device:m(b,n)||m(c,n)||m(d,n)},this.android={phone:m(e,n),tablet:!m(e,n)&&m(f,n),device:m(e,n)||m(f,n)},this.windows={phone:m(g,n),tablet:m(h,n),device:m(g,n)||m(h,n)},this.other={blackberry:m(i,n),opera:m(j,n),firefox:m(k,n),device:m(i,n)||m(j,n)||m(k,n)},this.seven_inch=m(l,n),this.any=this.apple.device||this.android.device||this.windows.device||this.other.device||this.seven_inch,this.phone=this.apple.phone||this.android.phone||this.windows.phone,this.tablet=this.apple.tablet||this.android.tablet||this.windows.tablet},o=new n;o.Class=n,"undefined"!=typeof module&&module.exports?module.exports=o:"function"==typeof define&&define.amd?define(o):a.isMobile=o}(this);
+    </script>
+
+        <title>User Agreement Student Accommodation. Seekhostel.com </title>
+
+    <style>
+        /* anti-FOUT */
+
+        .wf-loading #search-bar h1,
+        .wf-loading #listing-featured>h2,
+        .wf-loading .listing-detail h3,
+        .wf-loading .listing-detail h2 {
+            visibility: hidden;
+        }
+
+        .wf-active #search-bar h1,
+        .wf-active #listing-featured>h2,
+        .wf-active .listing-detail h3,
+        .wf-active .listing-detail h2 {
+            visibility: visible;
+        }
+    </style>
+    <link type="text/css" rel="stylesheet" href="../wp-content/themes/msh/css/min/all.mindef7.css?v=3.70" />
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../feed/index.html" />
+    <link rel="alternate" type="text/xml" title="RSS .92" href="../feed/rss/index.html" />
+    <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="../feed/atom/index.html" />
+    <link rel="shortcut icon" href="../wp-content/themes/msh/icons/favicons/favicon5e1f.ico?v=2" />
+    <link href="../wp-content/themes/msh/icons/favicons/apple-touch-icon5e1f.png?v=2" rel="apple-touch-icon" />
+    <link href="../wp-content/themes/msh/icons/favicons/apple-touch-icon-57x575e1f.png?v=2" rel="apple-touch-icon" sizes="57x57" />
+    <link href="../wp-content/themes/msh/icons/favicons/apple-touch-icon-72x725e1f.png?v=2" rel="apple-touch-icon" sizes="72x72" />
+    <link href="../wp-content/themes/msh/icons/favicons/apple-touch-icon-76x765e1f.png?v=2" rel="apple-touch-icon" sizes="76x76" />
+    <link href="../wp-content/themes/msh/icons/favicons/apple-touch-icon-114x1145e1f.png?v=2" rel="apple-touch-icon" sizes="114x114" />
+    <link href="../wp-content/themes/msh/icons/favicons/apple-touch-icon-120x1205e1f.png?v=2" rel="apple-touch-icon" sizes="120x120" />
+    <link href="../wp-content/themes/msh/icons/favicons/apple-touch-icon-144x1445e1f.png?v=2" rel="apple-touch-icon" sizes="144x144" />
+    <link href="../wp-content/themes/msh/icons/favicons/apple-touch-icon-152x1525e1f.png?v=2" rel="apple-touch-icon" sizes="152x152" />
+
+
+    
+
+<link rel='shortlink' href='../indexeeaa.html?p=10119' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var globaljsvars = {"path":"https://www.seekhostel.com/wp-content/themes/msh/js"};
+/* ]]> */
+</script>
+
+   
+</head>
+
+
+
+<body class="page page-id-10119 page-template-default">
+
+<div id="fb-root"></div>
+<div id="wrapper">
+
+    
+    
+    <header id="page-header" class="is-search-page has-shortlist-bar">
+                    <div id="banner" style="background: #FFFFFF url(../wp-content/uploads/2014/07/Topbanner17.jpg) no-repeat center center; background-size: cover;"></div>
+                <a id="logo" href="../index.html">
+            <img src="../wp-content/themes/msh/images/logo.jpg" alt="seekhostel.com" />
+        </a>
+
+        
+        
+                    <div id="shortlist-bar" class="cf">
+	<div class="inner cf">
+		<h3><a class="view-shortlist2"><span class="letter icon sprite"></span>Shortlist</a></h3>
+		<h3 class="information"><span class="info icon sprite"></span>You currently have <em>
+			no properties			</em>&nbsp;on your shortlist</h3>
+		<h3 class="information mobile"><span class="info icon sprite"></span><em>Halls: 0</em></h3>
+		<div class="buttons">
+			<button class="button white view-shortlist">View Shortlist</button>
+			<button class="button blue contact-shortlist" disabled>Contact All</button>
+		</div>
+	</div>
+	
+	<div id="shortlist">
+				<div class="background">
+					<span class="close-shortlist icon cross bold"></span>
+					<div class="inner header">
+						<h3>Your Shortlist</h3>
+					</div>
+					<div class="shortlist-area">
+						<ul>
+							<li class="placeholder">
+								<div class="inner">Your currently have no properties on your shortlist</div>
+							</li>
+													</ul>
+					</div>
+					<div class="shortlist-footer">
+						<button class="clear-shortlist button white-blue" disabled data-action="clear-quick-contacts">Clear Shortlist</button>
+						<button class="contact-shortlist button orange" disabled>Contact All</button>
+					</div>
+				</div>
+			</div>
+	
+</div>
+        
+    </header>
+
+<div class="container cf">
+	<main>
+									<article id="post-10119" class="post-10119 page type-page status-publish hentry">
+					<h1>User Agreement</h1>
+										<h2 class="intro">
+											</h2>
+					<div class="text">
+						<p class="p3"><span class="s1"><b>User Agreement</b></span></p>
+<p class="p5"><span class="s1"><b>1. Interpretation</b></span></p>
+<p class="p7"><span class="s1"><b>Definitions</b>. In this User Agreement, the following definitions apply:</span></p>
+<p class="p7"><span class="s1"><b>“Agent” </b>means a lettings agent (and in Scotland) solicitor agent, details of which are set out in the User Account Application.</span></p>
+<p class="p7"><span class="s1"><b>“Agreement Start Date” </b>means the next Business Day following receipt of payment.</span></p>
+<p class="p7"><span class="s1"><b>“Business Day” </b>means<b> </b>a day (other than a Saturday, Sunday or public holiday) when banks in London are open for business.</span></p>
+<p class="p7"><span class="s1"><b>“Content” </b>means any and all content and materials (including property details and any intellectual property rights of whatsoever nature) supplied or made available by, on behalf or on the instruction of, the User to Mygroup Digital.</span></p>
+<p class="p7"><span class="s1"><b>“Contract or Agreement” </b>means a contract for Services between the User and Mygroup Digital governed by this User Agreement and, where appropriate, any other conditions contained on our Website.</span></p>
+<p class="p7"><span class="s1"><b>“Featured Listing” </b>means<b> </b>that the Property will be listed at the top of the search results page for the city or town set out in the Listing and if other Featured Listings are present in the same city or town, the Featured Listings will be randomised. Featured Listings will also be displayed at random on the homepage of the Website.</span></p>
+<p class="p7"><span class="s1"><b>“Initial Term” </b>means<b> </b>the period of one year from and including the Agreement Start Date.</span></p>
+<p class="p7"><span class="s1"><b>“Intellectual Property Rights” </b>means<b> </b>patents, copyright and related rights, trade marks, business names and domain names, rights in get-up, goodwill and the right to sue for passing off, rights in designs, database rights, rights to use, and protect the confidentiality of, confidential information (including know-how), and all other intellectual property rights, in each case whether registered or unregistered and including all applications and rights to apply for and be granted, renewals or extensions of, and rights to claim priority from, such rights and all similar or equivalent rights or forms of protection which subsist or will subsist now or in the future in any part of the world.<b> </b></span></p>
+<p class="p7"><span class="s1"><b>“Landlord” </b>means any person, firm or corporate entity marketing and/or manage property they own for let.</span></p>
+<p class="p7"><span class="s1"><b>“Listing” </b>means<b> </b>an internet property listing displaying User Content to Visitors on the Website.</span></p>
+<p class="p7"><span class="s1"><b>“Listing Application” </b>means the creation of a new Listing submitted by the User to Mygroup Digital for review. </span></p>
+<p class="p7"><span class="s1"><b>“Property” </b>means a property available to let as a student dwelling. </span></p>
+<p class="p7"><span class="s1"><b>“Services” </b>means the services to be provided by Mygroup Digital as set out which may include any, or a combination, of the following:</span></p>
+<ul>
+<li class="p7"><span class="s1">A process facilitating the upload of Property details (including images) to the Website by the User;</span></li>
+<li class="p7"><span class="s1">Displaying the User’s Property on the Website;</span></li>
+<li class="p7"><span class="s1">Providing the User with a Listing within the search engine on the Website;</span></li>
+<li class="p7"><span class="s1">Forwarding enquiries received through the Website to the User;</span></li>
+<li class="p7"><span class="s1">Providing advertising services to the User strictly limited to the Content of the Listing; and </span></li>
+<li class="p7"><span class="s1">Any other services provided by Mygroup Digital from time to time. </span></li>
+</ul>
+<p class="p7"><span class="s1"><b>“Standard Listing” </b>means that the Property will be listed in search results for the city or town set out in the Listing. Standard Listings will be randomised in search results. </span></p>
+<p class="p7"><span class="s1"><b>“University” </b>means an institution of higher education and research which grants academic degrees in a variety of subjects and provides both undergraduate education and postgraduate education.</span></p>
+<p class="p7"><span class="s1"><b>“User Account Application” </b>means the details provided by you to become a registered User of the Website.</span></p>
+<p class="p7"><span class="s1"><b>“User”, “You” and “Your” </b>means the person, firm or corporate entity who has applied for a Listing.</span></p>
+<p class="p7"><span class="s1"><b>“User Agreement” </b>means these terms and conditions as amended from time to time in accordance with clause 15.</span></p>
+<p class="p7"><span class="s1"><b>“Visitors” </b>means Our visitors to the Website.</span></p>
+<p class="p7"><span class="s1"><b>“We”, “Us” and “Our” and “Mygroup Digital” </b>means Mygroup Digital Limited whose registered office is at Gresham House, 5-7 St. Pauls Street, Leeds, England, LS1 2JG with company number 07345539.</span></p>
+<p class="p7"><span class="s1"><b>“Website” </b>means Our website located at www.seekhostel.com and www.seekhostel.co.uk<b> </b></span></p>
+<p class="p7"><span class="s1"><b>2. Contract between You and Mygroup Digital</b></span></p>
+<p class="p7"><span class="s1">2.1 Completing and submitting the Listing Application constitutes an offer by the User to purchase Services in accordance with the terms of this User Agreement.</span></p>
+<p class="p7"><span class="s1">2.2 The Contract shall be deemed accepted when written acceptance of the Listing Application is issued by Mygroup Digital. </span></p>
+<p class="p7"><span class="s1">2.3 Mygroup Digital reserves the right to reject any Listing Application and/or refuse to enter into a Contract or provide any Services to a third party at its absolute discretion including where it believes that the party is not a Landlord or Agent or that it believes the Content not to be of a standard commensurate with that of a professional Landlord or Agent. </span></p>
+<p class="p7"><span class="s1">2.4 The Contract shall commence on the Agreement Start Date. </span></p>
+<p class="p7"><span class="s1">2.5 Any drawings, descriptive matter or advertising issued by Mygroup Digital which are published for the sole purpose of giving an approximate idea of the Services described shall not form part of the Contract or have any contractual force. </span></p>
+<p class="p7"><span class="s1">2.6 This User Agreement applies to the Contract to the exclusion of any other terms that the User seeks to impose or incorporate, or which are implied by trade, custom, practice or course of dealing. </span></p>
+<p class="p7"><span class="s1">2.7 The Contract constitutes the entire agreement between the parties. The User acknowledges that it has not relied on any statement, promise, representation, assurance or warranty made or given by or on behalf of Mygroup Digital which is not set out in this User Agreement.</span></p>
+<p class="p7"><span class="s1"><b>3. Supply of Services</b></span></p>
+<p class="p7"><span class="s1">3.1 Mygroup Digital:</span></p>
+<p class="p7"><span class="s1">3.1.1 Shall supply the Services to the User using reasonable care and skill in accordance with the terms of this User Agreement.</span></p>
+<p class="p7"><span class="s1">3.1.2 May vary the Services from time to time with or without notice.</span></p>
+<p class="p7"><span class="s1"><b>4. Obligations and Acknowledgements </b></span></p>
+<p class="p7"><span class="s1">4.1 The User warrants and represents that:</span></p>
+<p class="p7"><span class="s1">4.1.1 It is a Landlord or Agent providing services of a standard commensurate with that of a professional Landlord or Agent and it will not misrepresent the nature of its business to Mygroup Digital and that it does not act as a consumer in relation to the Contract.</span></p>
+<p class="p7"><span class="s1">4.1.2 It has authority to market the Property on the Website.</span></p>
+<p class="p7"><span class="s1">4.1.3 In respect of the Content, it will abide by any applicable industry code of conduct or guidelines issued by any relevant trade organisation and will abide by all applicable laws and regulations applying to or affecting Users including, but not limited to, the Property Misdescriptions Act 1991 and the Housing Act 2004 that applies to the marketing of property or land as well as the British Code of Advertising and Sales and Promotion and Direct Marketing (11</span><span class="s3"><sup>th</sup></span><span class="s1"> Edition) as updated or amended from time to time.</span></p>
+<p class="p7"><span class="s1">4.1.4 That the Content is true and accurate and presented in a way that is not misleading to the Visitor.</span></p>
+<p class="p7"><span class="s1">4.1.5 All information regarding rental prices will include all compulsory fees and charges that apply when renting the Property. </span></p>
+<p class="p7"><span class="s1">4.1.6 It is responsible for maintaining the Content ensuring that it is complete and accurate to the best of its knowledge and belief and it shall promptly update or correct Content on becoming aware of any errors or inaccuracies. </span></p>
+<p class="p7"><span class="s1">4.1.7 It will not do any of the following:</span></p>
+<p class="p9" style="padding-left: 30px;"><span class="s1">4.1.7.1 Upload or post inaccurate or incomplete Content or items to the Website; </span></p>
+<p class="p10" style="padding-left: 30px;"><span class="s1">4.1.7.2 List or post any defamatory, or libellous content (including personal information) about us or any third party or any false, inaccurate, misleading content on to the Website;</span></p>
+<p class="p10" style="padding-left: 30px;"><span class="s1">4.1.7.3 Distribute or post spam, unsolicited or bulk electronic communications to Us or any third parties or distribute any viruses or other technologies; and</span></p>
+<p class="p10" style="padding-left: 30px;"><span class="s1">4.1.7.4 Use the Website to collect email addresses or any other personal information from Our Visitors without their consent.</span></p>
+<p class="p7"><span class="s1">4.2 The User acknowledges and agrees that:</span></p>
+<p class="p7"><span class="s1">4.2.1 Mygroup Digital may take action or intervene, without limiting other remedies that it may have, it may issue the User with warnings, limit, suspend, or terminate its service and user accounts, restrict or prohibit access to the Website (including, without limitation, removing listings), delay or remove hosted content and take technical and legal steps to keep the User off the Website if:</span></p>
+<p class="p10" style="padding-left: 30px;"><span class="s1">4.2.1.1 It believes that the User is acting in a manner which is inconsistent with the accepted conduct of a Landlord or Agent using the Website or exposing Mygroup Digital or another user of the Website to financial loss or legal liabilities;</span></p>
+<p class="p10" style="padding-left: 30px;"><span class="s1">4.2.1.2 It cannot identify or prove all or any part of the Content provided by the User despite having taken reasonable steps to do so; or</span></p>
+<p class="p10" style="padding-left: 30px;"><span class="s1">4.2.1.3 The User does not comply with this User Agreement or any terms posted on any part of the Website.</span></p>
+<p class="p7"><span class="s1">4.2.2 Mygroup Digital reserve the right to:</span></p>
+<p class="p9" style="padding-left: 30px;"><span class="s1">4.2.2.1 Review and if necessary remove Content which is incomplete or inaccurate;</span></p>
+<p class="p10" style="padding-left: 30px;"><span class="s1">4.2.2.2 Cancel accounts that have been inactive for a period of 6 months.</span></p>
+<p class="p7"><span class="s1"><b>5. Fees and payment</b></span></p>
+<p class="p7"><span class="s1">5.1 The fees for the Services shall be as published on our Website from time to time.</span></p>
+<p class="p7"><span class="s1">5.2 Mygroup Digital reserves the right to increase its fees from time to time.</span></p>
+<p class="p7"><span class="s1">5.3 Mygroup Digital shall invoice the Customer upon acceptance of the Account User Application.</span></p>
+<p class="p7"><span class="s1">5.4 The User shall pay each invoice submitted by Mygroup Digital:</span></p>
+<p class="p7" style="padding-left: 30px;"><span class="s1"> 5.4.1 within 30 days of the date of the invoice; and</span></p>
+<p class="p7" style="padding-left: 30px;"><span class="s1"> 5.4.2 in full and in cleared funds to a bank account nominated in writing by Mygroup Digital, and</span></p>
+<p class="p7" style="padding-left: 30px;"><span class="s1"><span class="Apple-converted-space">    </span>time for payment shall be of the essence of the Contract.</span></p>
+<p class="p7"><span class="s1">5.6 Mygroup Digital will not perform the Services until payment has been received in accordance with this clause.</span></p>
+<p class="p7"><span class="s1">5.7 All amounts payable by the User under the Contract are exclusive of amounts in respect of value added tax chargeable for the time being (VAT). Where any taxable supply for VAT purposes is made under the Contract by Mygroup Digital to the Supplier to the Customer, the Customer shall, on receipt of a valid VAT invoice from the Supplier, pay to the User such additional amounts in respect of VAT as are chargeable on the supply of the Services at the same time as payment is due for the supply of the Services. </span></p>
+<p class="p7"><span class="s1">5.8 If the User fails to make any payment due to Mygroup Digital under the Contract by the due date for payment, then the User shall pay interest on the overdue amount at the rate of 4% per cent per annum above National Westminster Bank Plc’s base rate from time to time. Such interest shall accrue on a daily basis from the due date until actual payment of the overdue amount, whether before or after judgment. The User shall pay the interest together with the overdue amount.</span></p>
+<p class="p7"><span class="s1">5.9 The User pay all amounts due under the Contract in full without any set-off, counterclaim, deduction or withholding. </span></p>
+<p class="p7"><span class="s1"><b>6. Intellectual Property</b></span></p>
+<p class="p7"><span class="s1">6.1The User warrants that it owns all Intellectual Property Rights and all other rights in the Content. Subject to clause 6.2, the User licenses all such rights to Mygroup Digital free of charge and on a non-exclusive, worldwide basis to such extent as is necessary to enable Mygroup Digital to make reasonable use of the Content. If this User Agreement is terminated, this licence will automatically terminate.</span></p>
+<p class="p7"><span class="s1">6.2 The User warrants that where it does not own any of the Content, the User’s use of rights in Content is conditional on the User obtaining a written licence (or sub-licence) from the relevant licensor or licensors on such terms as will entitle the User to license such rights to Mygroup Digital.</span></p>
+<p class="p7"><span class="s1"><b>7. Privacy of data</b></span></p>
+<p class="p7"><span class="s1">Mygroup Digital are committed to protecting personal information and other data supplied to us and is governed by our <a href="../privacy-policy/index.html">Privacy Policy</a>.</span></p>
+<p class="p7"><span class="s1"><b>8. Unauthorised communications</b></span></p>
+<p class="p7"><span class="s1">The User may not use the Website or items listed on it to send spam or otherwise send Content that would breach our User Agreement. Mygroup Digital may automatically scan and manually filter email messages before they are sent via our communication tools for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store such messages. If you think you may have received spam through the website without your permission, please contact us support@seekhostel.com</span></p>
+<p class="p7"><span class="s1"><b>9. Using other user’s details</b></span></p>
+<p class="p7"><span class="s1">9.1 Mygroup Digital cannot guarantee that other users will respect the privacy or security of your information.</span></p>
+<p class="p7"><span class="s1">9.2 Similarly, we ask you to respect other users&#8217; privacy and disclose your privacy and security policies to them.</span></p>
+<p class="p7"><span class="s1"><b>LIMITATION OF LIABILITY – THE USER’S ATTENTION IS PARTICULARLY DRAWN TO THIS CLAUSE</b></span></p>
+<p class="p7"><span class="s1"><b>10. Limitation of liability</b></span></p>
+<p class="p7"><span class="s1">10.1 Nothing in this User Agreement shall limit or exclude Mygroup Digital&#8217;s liability for:</span></p>
+<p class="p13" style="padding-left: 30px;"><span class="s1">10.1.1death or personal injury caused by its negligence, or the negligence of its employees, agents or subcontractors; or </span></p>
+<p class="p7" style="padding-left: 30px;"><span class="s1"> 10.1.2 fraud or fraudulent misrepresentation; or</span></p>
+<p class="p7"><span class="s1">10.2 Subject to clause 10.1:</span></p>
+<p class="p13" style="padding-left: 30px;"><span class="s1">10.2.1Mygroup Digital shall under no circumstances whatever be liable to the User, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, for any loss of profit, or any indirect or consequential loss arising under or in connection with the Contract; and</span></p>
+<p class="p13" style="padding-left: 30px;">10.2.2 Mygroup Digital’s total liability to the User in respect of all other losses arising under or in connection with the Contract, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, shall in no circumstances exceed the amount paid by the User to Mygroup Digital under this Contract.</p>
+<p class="p7"><span class="s1">10.3 The terms implied by sections 3 to 5 of the Supply of Goods and Services Act 1982 are, to the fullest extent permitted by law, excluded from the Contract. </span></p>
+<p class="p7"><span class="s1">10.4 Mygroup Digital do not take any responsibility for the accuracy or completeness of the information supplied and cannot be held liable for any consequential loss.</span></p>
+<p class="p7"><span class="s1">10.5 In using the Services on the Website, you agree not to hold us responsible for any loss you may incur as a result of us taking any of the actions described in 4.2.1 and 4.2.2.</span></p>
+<p class="p7"><span class="s1">10.6 This clause 5 shall survive termination of the Contract.</span></p>
+<p class="p7"><span class="s1"><b>11.</b> <b>Termination</b></span></p>
+<p class="p7"><span class="s1">11.1 The User Agreement shall be for the Initial Term. </span></p>
+<p class="p7"><span class="s1">11.2 On termination of the User Agreement, the User shall immediately pay to Mygroup Digital the balance of all outstanding unpaid invoices and interest.</span></p>
+<p class="p7"><span class="s1">11.3 Without limiting its other rights or remedies Mygroup Digital may terminate the Contract by giving the User one months’ written notice at any time. </span></p>
+<p class="p7"><span class="s1">11.4 Without limiting its other rights or remedies, Mygroup Digital may terminate the Contract with immediate effect by giving written notice to the User if the User fails to pay any amount due under this Contract on the due date for payment and fails to pay all outstanding amounts with 7 days after being notified in writing to do so.</span></p>
+<p class="p7"><span class="s1">11.5 The accrued rights, remedies, obligations and liabilities of the parties as at expiry or termination shall be unaffected, including the right to claim damages in respect of any breach of the Contract which existed at or before the date of termination or expiry.</span></p>
+<p class="p7"><span class="s1"><b>12. Consequences of termination</b></span></p>
+<p class="p7"><span class="s1">12.1 Any provision of this agreement that expressly or by implication is intended to come into or continue in force on or after termination of this agreement shall remain in full force and effect.</span></p>
+<p class="p7"><span class="s1">12.2 Termination or expiry of this agreement shall not affect any rights, remedies, obligations or liabilities of the parties that have accrued up to the date of termination, including the right to claim damages in respect of any breach of the agreement which existed at or before the date of termination.</span></p>
+<p class="p7"><span class="s1"><b>13. Force Majeure</b></span></p>
+<p class="p7"><span class="s1">Mygroup Digital shall not be in breach of this User Agreement nor liable for delay in performing, or failure to perform, any of its obligations under this User Agreement if such delay or failure result from events, circumstances or causes beyond its reasonable control. In such circumstances the affected party shall be entitled to a reasonable extension of the time for performing such obligations. If the period of delay or non-performance continues for 1 month, the party not affected may terminate this agreement by giving 14 days&#8217; written notice to the affected party.</span></p>
+<p class="p7"><span class="s1"><b>14. Right to be unavailable</b></span></p>
+<p class="p7"><span class="s1">Mygroup Digital reserve the right to take the Website ‘off-line’ without prior notice for essential maintenance and upgrades.</span></p>
+<p class="p7"><span class="s1"><b>15. Variation</b></span></p>
+<p class="p7"><span class="s1">15.1 Mygroup Digital may revise these terms and conditions from time to time to reflect changes in market conditions affecting its business, changes in technology, changes in payment methods, changes in relevant laws and regulatory requirements and changes in its system&#8217;s capabilities.</span></p>
+<p class="p14"><span class="s1">15.2 Except as set out in this User Agreement, no variation of this agreement shall be effective unless it is in writing and signed by Mygroup Digital. </span></p>
+<p class="p7"><span class="s1"><b>16. Indemnity </b></span></p>
+<p class="p7"><span class="s1">The User agrees to indemnify and keep indemnified Mygroup Digital in full and on demand from and against all and any losses, costs, claims, liabilities, damages, demands and expenses suffered or incurred by Mygroup Digital arising out of, or in connection with, the User’s breach of this User Agreement and/or the User’s violation of any law or the rights of a third party.</span></p>
+<p class="p7"><span class="s1"><b>17. Waiver</b></span></p>
+<p class="p7"><span class="s1">A waiver of any right under this User Agreement or law is only effective if it is in writing and shall not be deemed to be a waiver of any subsequent breach or default. No failure or delay by a party in exercising any right or remedy provided under the Contract or by law shall constitute a waiver of that or any other right or remedy, nor shall it prevent or restrict its further exercise of that or any other right or remedy. No single or partial exercise of such right or remedy shall prevent or restrict the further exercise of that or any other right or remedy.</span></p>
+<p class="p7"><span class="s1"><b>18. Severance</b></span></p>
+<p class="p7"><span class="s1">If any provisions of this User Agreement are determined by any competent authority to be invalid, unlawful or unenforceable it shall be deemed modified to the minimum extent necessary to make it valid, legal and enforceable. If such modification is not possible, the relevant provision or part-provision shall be deemed deleted. Any modification or deletion shall not affect the validity and enforceability of the rest of the User Agreement. </span></p>
+<p class="p7"><span class="s1"><b>19. Entire agreement </b></span></p>
+<p class="p7"><span class="s1">19.1 This agreement constitutes the entire agreement between the parties and supersedes and extinguishes all previous agreements, promises, assurances, warranties, representations and understandings between them, whether written or oral, relating to its subject matter.</span></p>
+<p class="p7"><span class="s1">19.2 Each party agrees that it shall have no remedies in respect of any statement, representation, assurance or warranty (whether made innocently or negligently) that is not set out in this agreement.<span class="Apple-converted-space">  </span>Each party agrees that it shall have no claim for innocent or negligent misrepresentation based on any statement in this agreement.</span></p>
+<p class="p7"><span class="s1">19.3 Nothing in this clause shall limit or exclude any liability for fraud. </span></p>
+<p class="p7"><span class="s1"><b>20. Assignment and other dealings</b></span></p>
+<p class="p7"><span class="s1">20.1 Mygroup Digital may at any time assign, transfer, mortgage, charge, subcontract or deal in any other manner with all or any of its rights under the User Agreement and may subcontract or delegate in any manner any or all of its obligations under the User Agreement to any third party or agent.</span></p>
+<p class="p7"><span class="s1">20.2 The User shall not, without prior written consent of Mygroup Digital, assign or transfer in any manner any or all of its rights or obligations under the User Agreement. </span></p>
+<p class="p7"><span class="s1"><b>21. No partnership or agency</b></span></p>
+<p class="p15"><span class="s1">21.1 Mygroup Digital is not a lettings agent.</span></p>
+<p class="p16"><span class="s5">21.2 </span><span class="s1">Nothing in this agreement is intended to, or shall be deemed to, establish any partnership or joint venture between any of the parties, constitute any party the agent of another party, or authorise any party to make or enter into any commitments for or on behalf of any other party.</span></p>
+<p class="p16"><span class="s1">21.3 Each party confirms it is acting on its own behalf and not for the benefit of any other person.</span></p>
+<p class="p7"><span class="s1"><b>22. Third party rights</b></span></p>
+<p class="p7"><span class="s1">A person who is not a party to this Agreement has no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of this User Agreement.</span></p>
+<p class="p7"><span class="s1"><b>23. Notices</b></span></p>
+<p class="p7"><span class="s1">23.1 Any notice given by the User to Mygroup Digital must be given in writing at support@seekhostel.com.</span></p>
+<p class="p7"><span class="s1">23.2</span> <span class="s1">Mygroup Digital may give notice to the User in writing at either the e-mail or postal address provided in the User Account Application.</span></p>
+<p class="p7"><span class="s1">23.3</span> <span class="s1">Any notice sent by e-mail, personally delivered or sent by first class post shall be deemed to have been received one Business Day after submission, delivery or posting.</span></p>
+<p class="p7"><span class="s1"><b>24. Law and jurisdiction</b></span></p>
+<p class="p15"><span class="s1">24.1This User Agreement, and any dispute or claim arising out of or in connection with it or its subject matter of formation, shall be governed, and construed in accordance with the law of England and Wales.</span></p>
+<p class="p15"><span class="s1">24.2 Each party irrevocably agrees that the Courts of England and Wales shall have exclusive jurisdiction to settle any dispute or claim arising out of or in connection with this User Agreement or its subject matter or formation. </span></p>
+					</div>
+
+                    
+					<script>
+						require(['jquery', 'jquery.formlabel2'], function($){
+							$(document).ready(function(){
+								$('.fm-form li').formlabel({
+									left: 15,
+									top: 0
+								});
+							});
+						}); 
+					</script>
+				</article>
+						</main>
+</div>
+
+			<div class="container">
+				<footer id="footer-menus" class="cf">
+					<nav class="menu-information-container"><h3>Information</h3><ul id="menu-information" class="menu"><li id="menu-item-13555" class="first-menu-item menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-13555"><a href="../blog/index.html">Blog</a></li>
+<li id="menu-item-6223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6223"><a href="../about/index.html">About</a></li>
+<li id="menu-item-3575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3575"><a href="../student-accommodation/index.html">Student accommodation directory UK</a></li>
+<li id="menu-item-6222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6222"><a href="../contact-us/index.html">Contact us</a></li>
+<li id="menu-item-25417" class="last-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-25417"><a href="../press-enquiries/index.html">Press/media enquiries</a></li>
+</ul></nav><nav class="menu-help-container"><h3>Help</h3><ul id="menu-help" class="menu"><li id="menu-item-9993" class="first-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-9993"><a href="../help/index.html">Help</a></li>
+<li id="menu-item-10047" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10047"><a href="../terms-of-use/index.html">Terms of use</a></li>
+<li id="menu-item-9992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9992"><a href="../privacy-policy/index.html">Privacy policy</a></li>
+<li id="menu-item-10124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10124"><a href="../cookie-policy/index.html">Cookie policy</a></li>
+<li id="menu-item-10044" class="last-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-10044"><a href="../newsletter/index.html">Newsletter</a></li>
+</ul></nav><nav class="menu-working-with-us-container"><h3>Working With Us</h3><ul id="menu-working-with-us" class="menu"><li id="menu-item-10041" class="first-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-10041"><a href="../advertise-with-us/index.html">Advertise with us</a></li>
+<li id="menu-item-10040" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10040"><a href="../wp-login13a5.html">Create an advertiser account</a></li>
+<li id="menu-item-10039" class="last-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-10039"><a href="../wp-login6c63.html">Advertiser log in</a></li>
+</ul></nav>					<nav class="social-media-links">
+                        <h3>Find us at</h3>
+                        <ul>
+						    <li><a class="facebook" target="_blank" href="https://www.facebook.com/seekhostel"><span class="icon facebook"></span>Facebook</a></li>
+                            <li><a class="twitter" target="_blank" href="https://twitter.com/seekhostel/"><span class="icon twitter"></span>Twitter</a></li>
+                        </ul>
+					</nav>
+				</footer>
+
+				
+				<footer id="footer-copyright">
+					<p>The shitty thing they always put at copywrite &copy; blaa blaa blaa</p>
+				</footer>
+
+			</div><!-- /#container -->
+
+		</div><!-- /#wrapper -->
+
+		
+		<div id="blue-overlay"><span class="icon cross"></span><div class="content"></div></div>
+
+		<div id="newsletter-form">
+			<h1>Join Our Newsletter</h1>
+			<!-- Begin MailChimp Signup Form -->
+			<div id="mc_embed_signup">
+			<form action="http://seekhostel.us5.list-manage.com/subscribe/post?u=3e030f7b175cda1791fff38e5&amp;id=863d504c64" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+			<div class="message result"></div>
+			<div class="mc-field-group">
+				<label for="mce-EMAIL">Email Address<span>*</span></label>
+				<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+			</div>
+				<div id="mce-responses" class="clear">
+					<div class="response" id="mce-error-response" style="display:none"></div>
+					<div class="response" id="mce-success-response" style="display:none"></div>
+				</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+			    <div style="position: absolute; left: -5000px;"><input type="text" name="b_3e030f7b175cda1791fff38e5_863d504c64" tabindex="-1" value=""></div>
+			    <div class="clear"><input type="submit" value="Join" name="subscribe" id="mc-embedded-subscribe" class="button orange"></div>
+			</form>
+			</div>
+<!--End mc_embed_signup-->
+		</div>
+
+		<script>
+			require(['jquery'], function($){
+
+				$(document).ready(function(){
+
+					$(document).on('submit', '#newsletter-signup form, #blue-overlay #newsletter-form form', function(event){
+						event.preventDefault();
+
+						var $form = $(this);
+
+						$('.message.result', $form).hide();
+						$('.message.result', $form).children().remove();
+
+						$.ajax({
+							type: "POST",
+							url: mcurl,
+							dataType: 'json',
+							data: {
+								'email': $('.required.email', $form).val()
+							},
+							'error': function() {
+							},
+							'success': function(data, textStatus, jqXHR) {
+								if (data.status == 'error') {
+									if (data.code == 214) {
+										var message = 'Ah..Looks like you are already on our list.';
+									} else {
+										switch(data.error) {
+											case 'The email parameter should include an email, euid, or leid key' :
+												var message = 'Ah…we need your email first!';
+											break;
+											case 'An email address must contain a single @' :
+												var message = 'Almost there! But your email needs to have a single "@"';
+											break;
+											case 'The domain portion of the email address is invalid (the portion after the @: )' :
+												var message = 'Hmm, please check the second part of your email (after the @)';
+											break;
+											case 'The username portion of the email address is invalid (the portion before the @: )' :
+												var message = 'Oh, please check the first part of your email address (before the @)';
+											break;
+											default:
+												var message = data.error;
+											break;
+										}
+									}
+									$('.message.result', $form).children().remove();
+									$('.message.result', $form).html('<p>' + message + '</p>');
+									$('.message.result', $form).fadeIn();
+								} else {
+									$('.message.result', $form).html('<p>Awesome! You are now signed up to our newsletter</p>');
+									$('.message.result', $form).fadeIn();
+									$form[0].reset();
+								}
+							}
+						});
+					});
+				});
+
+			});
+		</script>
+
+		<div id="shortlist-contact" class="shortlist-contact">
+			<h1>Contact Your Shortlist</h1>
+			<p>Use the contact form below to send your question to all the properties on your list.</p>
+			<button class="button blue-white view-shortlist">View/Edit Shortlist</button>
+			<div class="validation message"></div>
+			<form id="frmSendMessage" method="post" action="https://www.seekhostel.com/user-agreement/">
+				<div id="contact-area">
+										<ul class="left">
+						<li class="txtName-group">
+							<label for="blue-txtName">Name<span>*</span></label>
+							<input id="blue-txtName" name="txtName" type="text" class="input1" title="Enter your name" value=""/>
+						</li>
+						<li class="txtEmail-group">
+							<label for="blue-txtEmail">Email<span>*</span></label>
+							<input id="blue-txtEmail" name="txtEmail" type="text" class="input1" title="Enter your email address" value="" />
+						</li>
+						<li class="txtNumber-group">
+							<label for="blue-txtNumber">Contact Number</label>
+							<input id="blue-txtNumber" name="txtNumber" type="text" class="input1" title="Enter your contact number" value="" />
+						</li>
+					</ul>
+					<ul class="right">
+						<li id="blue-qc-message" class="txtMessage-group">
+							<label for="blue-txtMessage">Your message<span>*</span></label>
+							<textarea id="blue-txtMessage" name="txtMessage" rows="7" class="input-area" title="Enter your message"></textarea>
+						</li>
+					</ul>
+
+				</div>
+				<ul class="footer cf">
+										<li>
+						<input type="hidden" id="_wpnonce" name="_wpnonce" value="bdaa855b92" /><input type="hidden" name="_wp_http_referer" value="/user-agreement/" />						<input type="hidden" name="loadtime" value="1518369989">
+						<button type="submit" class="submit button orange" value="Send">Contact the 0 properties on your shortlist</button>
+						<div id="loaderImage"></div>
+
+						<div class="message result">
+							<div class="loader"></div>
+						</div>
+					</li>
+				</ul>
+				<ul id="optUL">
+					<li id="opt-group">
+						<input type="checkbox" name="optIn" id="optIn" checked>
+						<label for="optIn">Keep me up to date with the latest accommodation news and offers. Uncheck to opt-out.</label>
+					</li>
+				</ul>
+				</form>
+		</div>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fef7792d4c","applicationID":"97601556","transactionName":"ZAZaNUUHDEVXAEIMCl1MeQJDDw1YGRNXAgA=","queueTime":0,"applicationTime":342,"atts":"SEFZQw0dH0s=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+
+</html>

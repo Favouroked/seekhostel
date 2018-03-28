@@ -1,0 +1,73 @@
+<div class="container">
+    <footer id="footer-menus" class="cf">
+        <nav class="menu-information-container"><h3>Information</h3>
+            <ul id="menu-information" class="menu">
+                <li class="first-menu-item menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-13555">
+                    <a href="#">Blog</a></li>
+                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6223"><a
+                            href="/about/index.html">About</a></li>
+                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3575"><a
+                            href="/school-list">Student accommodation directory</a></li>
+                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6222"><a
+                            href="/contact-us/index.html">Contact us</a></li>
+                <li class="last-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-25417">
+                    <a href="#">Press/media enquiries</a></li>
+            </ul>
+        </nav>
+        <nav class="menu-help-container"><h3>Help</h3>
+            <ul class="menu">
+                <li class="first-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-9993">
+                    <a href="/help/index.html">Help</a></li>
+                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10047"><a
+                            href="/terms-of-use/index.html">Terms of use</a></li>
+                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9992"><a
+                            href="/privacy-policy/index.html">Privacy policy</a></li>
+                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10124"><a
+                            href="/cookie-policy/index.html">Cookie policy</a></li>
+                <li class="last-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-10044">
+                    <a href="/newsletter/index.html">Newsletter</a></li>
+            </ul>
+        </nav>
+        <% if (!user) { %>
+        <nav class="menu-working-with-us-container"><h3>Working With Us</h3>
+            <ul class="menu">
+                <li id="menu-item-10041"
+                    class="first-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-10041">
+                    <a href="/advertise-with-us/index.html">Advertise with us</a></li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10040"><a
+                            href="/users/register">Create an advertiser account</a></li>
+                <li class="last-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-10039">
+                    <a href="/users/login">Advertiser log in</a></li>
+            </ul>
+        </nav>
+        <% } else { %>
+        <nav class="menu-working-with-us-container"><h3>Working With Us</h3>
+            <ul class="menu">
+
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10040"><a
+                            href="/agent/home">Agent Home</a></li>
+                <li class="last-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-10039">
+                    <a href="/agent/add">Add Hostel</a></li>
+                <li class="last-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-10039">
+                    <a href="/agent/uploads">Added Hostels</a></li>
+                <li class="last-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-10039">
+                    <a href="/users/logout">Agent Logout</a></li>
+            </ul>
+        </nav>
+        <% } %>
+        <nav class="social-media-links">
+            <h3>Find us at</h3>
+            <ul>
+                <li><a class="facebook" target="_blank" href="#"><span class="icon facebook"></span>Facebook</a>
+                </li>
+                <li><a class="twitter" target="_blank" href="#"><span class="icon twitter"></span>Twitter</a></li>
+            </ul>
+        </nav>
+    </footer>
+
+
+    <footer id="footer-copyright">
+        <p>The shitty thing they always put at copywrite &copy; blaa blaa blaa</p>
+    </footer>
+
+</div><!-- /#container -->
