@@ -1,5 +1,4 @@
 # seekhostel
-Omis hahahahahahahahahaha
 
 You have to install and configure elasticsearch on your laptop
 
